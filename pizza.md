@@ -2,6 +2,6 @@
 
 ## Ingredients
 
-*cheese
+* cheese
 * tomato
-*doll
+* doll
